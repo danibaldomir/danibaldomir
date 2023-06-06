@@ -7,6 +7,5 @@
 ### languages i know or want to learn
 [![langs](https://skillicons.dev/icons?i=kotlin,js,ts,python,html,css)](https://github.com/danibaldomir)
 
-
 ### tools i use every day at work or am learning to use
 [![apps](https://skillicons.dev/icons?i=vscode,workers,vercel,ps,figma,neovim,mongodb,linux,github,gcp,discord,cloudflare,bash)](https://github.com/danibaldomir)
