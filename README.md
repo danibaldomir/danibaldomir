@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&width=450&height=65&lines=Hello%2C+nice+to+see+you+here!;I'm+Dani+B%2C+student+of+microcomputer+systems+and+networks;I+work+for+Nude+Project+and+other+entities)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=300&width=450&height=65&lines=Hello%2C+nice+to+see+you+here!;I%27m+danib%2C+student+of+systems+administration+and+networks;I+work+for+Team+Heretics+and+other+entities)
 
 [![Twitter](https://img.shields.io/badge/X/Twitter-black?style=for-the-badge&logo=X/&logoColor=white)](https://twitter.com/danibaldomir_)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daanib)
