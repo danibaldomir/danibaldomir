@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=1000&width=450&height=65&lines=Hello%2C+nice+to+see+you+here!;I'm+Dani+B%2C+student+of+microcomputer+systems+and+networks;I+work+for+Nude+Project+and+other+entities)
 
 [![Twitter](https://img.shields.io/badge/X/Twitter-black?style=for-the-badge&logo=X/&logoColor=white)](https://twitter.com/danibaldomir_)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/627150888653553665)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daanib)
 ----
 
 ### languages i know or want to learn
